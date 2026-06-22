@@ -1,0 +1,14 @@
+bot:
+  discord_token: ""
+
+  guild:
+  bot_id:
+  chat_id:
+  welcome_chat_id:
+  muted_channel_id:
+  member_role_id:
+  muted_role_id:
+
+  boot_msg: f"Bot Initiated Client {client.user}"
+
+  welcome_msg: f""
